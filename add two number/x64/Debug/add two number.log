@@ -1,0 +1,3 @@
+﻿  add two number.cpp
+C:\Users\ARABIA\source\repos\add two number\add two number\add two number.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  add two number.vcxproj -> C:\Users\ARABIA\source\repos\add two number\x64\Debug\add two number.exe
